@@ -24,6 +24,7 @@ https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&sel
 * Gymnastics Medal count by country
 * GDP per Capita by Country
 * correlation between a country's GDP per Capita and Medal count
+* Linear regression between a country's GDP per Capita and Medal count
 * Top 10 countries
 * Ploting pie charts, bar charts and scatter plots to visualize the data
 * Summary statistics
