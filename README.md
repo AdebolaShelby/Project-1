@@ -30,7 +30,6 @@ https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&sel
 * Summary statistics
 
 # Analysis and Conclusion
-Write-up summarizes major findings and implications at a professional level (5 points)
 * The country with the most medals from 1896 to 2014 is USA with 4585 medals.
 * The country with the least medals from 1896 to 2014 is CIV with 1 medals.
 * The total number of medals from 1896 to 2014 is 31161.
@@ -44,12 +43,3 @@ Write-up summarizes major findings and implications at a professional level (5 p
 * The correlation between a country's GDP per Capita and Medal count is 0.4009777687756397.
 * The r-squared is: 0.1607831710522904 which indicates that there is no relationship between a country's GDP and medal count
 
-
-
-
-
-
-
-Each question in the project proposal is answered with precise descriptions and findings (5 points)
-Findings are strongly supported with numbers and visualizations (5 points)
-Each question response is supported with a well-discerned statistical analysis from lessons (e.g., aggregation, correlation, comparison, summary statistics, sentiment analysis, and time series analysis) (5 points)
