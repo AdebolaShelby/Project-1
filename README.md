@@ -5,9 +5,9 @@ For this project, we analyze the open source data from kaggle to understand the 
 https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&select=summer.csv
 
 # Research Questions to Answer:
-# Research Questions to Answer:
-* Medals by Year
-  -Through our data, we were able to graph how many medals were given out by year. This can be seen in our python script as well as our presentation. There was a spike in the data for 1920 due to the completion of WWI. We found that the most number of medals given was in 2008 with a total of 2041 medals being given that year.
+
+** Medals by Year ** 
+* Through our data, we were able to graph how many medals were given out by year. This can be seen in our python script as well as our presentation. There was a spike in the data for 1920 due to the completion of WWI. We found that the most number of medals given was in 2008 with a total of 2041 medals being given that year.
 * Medals count by Gender
   -Using the data from Kaggle, were were able to deduce that males won 73% of the medals while only 27% of medals awarded were to women. After further research, it was found that one of the reasons for the lower data count from women was because women's sports were not introduced until many, many years later in the Olympics.
 * Who has the most medals from 1856 to 2012
