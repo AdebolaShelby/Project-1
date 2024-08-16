@@ -112,7 +112,7 @@ Michael Phelps, Larisa Ulatynina, and Nikolay Andrianov.
 
 **Correlation between a country's GDP per Capita and Medal count**
 
-* There is a weak correlation between the GDP of the country and their medal count. There could be other factors that are contributing to the medal counts other than the GDP.
+* There is a weak correlation between the GDP of a country and their medal count. There could be other factors that are contributing to the medal counts other than the GDP.
 
 **Summary statistics**
 
