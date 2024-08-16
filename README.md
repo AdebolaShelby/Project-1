@@ -30,7 +30,6 @@ https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&sel
 * Summary statistics
 
 # Analysis and Conclusion
-Write-up summarizes major findings and implications at a professional level (5 points)
 * The country with the most medals from 1896 to 2014 is USA with 4585 medals.
 * The country with the least medals from 1896 to 2014 is CIV with 1 medals.
 * The total number of medals from 1896 to 2014 is 31161.
