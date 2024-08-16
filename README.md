@@ -14,33 +14,33 @@ https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&sel
 * The average number of medals is 1154.2592592592594.
 * The median number of medals is 1010.0.
 
-* 1896:     151
-* 1900:     512
-* 1904:     470
-* 1908:     804
-* 1912:     885
-* 1920:    1298
-* 1924:     884
-* 1928:     710
-* 1932:     615
-* 1936:     875
-* 1948:     814
-* 1952:     889
-* 1956:     885
-* 1960:     882
-* 1964:    1010
-* 1968:    1031
-* 1972:    1185
-* 1976:    1305
-* 1980:    1387
-* 1984:    1459
-* 1988:    1546
-* 1992:    1705
-* 1996:    1859
-* 2000:    2015
-* 2004:    1998
-* 2008:    2042
-* 2012:    1949
+* 1896:     151 medals
+* 1900:     512 medals
+* 1904:     470 medals
+* 1908:     804 medals
+* 1912:     885 medals
+* 1920:    1298 medals
+* 1924:     884 medals
+* 1928:     710 medals
+* 1932:     615 medals
+* 1936:     875 medals
+* 1948:     814 medals
+* 1952:     889 medals
+* 1956:     885 medals
+* 1960:     882 medals
+* 1964:    1010 medals
+* 1968:    1031 medals
+* 1972:    1185 medals
+* 1976:    1305 medals
+* 1980:    1387 medals
+* 1984:    1459 medals
+* 1988:    1546 medals
+* 1992:    1705 medals
+* 1996:    1859 medals
+* 2000:    2015 medals
+* 2004:    1998 medals
+* 2008:    2042 medals
+* 2012:    1949 medals
 
 
 
