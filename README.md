@@ -1,5 +1,5 @@
 # Project Description/Outline: 
-For this project, we analyze the open source data from kaggle to understand the performance of various countries in the olympic games from 1896 to 2012. The analysis includes performance by country, gender, sports, and athletes over time, as well as exploring the correlation between a country's GDP per Capita and medal count.
+For this project, we analyze the open-source data from Kaggle to understand the performance of various countries in the Olympic games from 1896 to 2012. The analysis includes performance by country, gender, sports, and athletes over time, as well as exploring the correlation between a country's GDP per Capita and medal count.
 
 # Data Source
 https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&select=summer.csv
@@ -8,24 +8,29 @@ https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&sel
 
 **Medals by Year** 
 
-* Through our data, we were able to graph how many medals were given out by year. This can be seen in our python script as well as our presentation. There was a spike in the data for 1920 due to the completion of WWI. We found that the most number of medals given was in 2008 with a total of 2041 medals being given that year.
-* 
+* The year with the most medals is 2008 with 2042 medals.
+* The year with the least medals is 1896 with 151 medals.
+* The total number of medals is 31165.
+* The average number of medals is 1154.2592592592594.
+* The median number of medals is 1010.0.
+
 **Medals count by Gender**
   
-* Using the data from Kaggle, were were able to deduce that males won 73% of the medals while only 27% of medals awarded were to women. After further research, it was found that one of the reasons for the lower data count from women was because women's sports were not introduced until many, many years later in the Olympics.
+* Men      22746
+* Women     8419
   
 **Who has the most medals from 1856 to 2012** 
 
-* The United States has the most medals coming in at 4585. The former Soviet Union came in at 2049 and Great Brittain rounded out the top three with 1720.
-*The question was raised in class, why did the US have so many medals and why did they dominate many of the Olympic sports. According to our research, ChaptGPT listed the US's emphasis on sports in school's being a factor along with the cost of training meaning that the US can afford to train our athletes in very expensive arenas with the latest equipment whereas other countries may not.
+* The United States has the most medals coming in at 4585. The former Soviet Union came in at 2049 and Great Britain rounded out the top three with 1720.
 
 **Top Athletes**
 
-* Through our python script and mining the data, we were able to showcase the top 30 athletes. However, in our presentation, we focused on the top three: Michael Phelps, Larisa Ulatynina, and Nikolay Andrianov.
+Michael Phelps, Larisa Ulatynina, and Nikolay Andrianov.
 
 **How many medals did Michael Phelps win?**
 
-* As of 2012, Michael Phelps won a total of 18 medals.
+* Michael Phelps won a total of 18 medals.
+
 
 **How many medals did ULATYNINA, Larisa win?**
 
@@ -37,53 +42,74 @@ https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&sel
 
 **Total Medals by Country**
 
-* As mentioned above, the United States had the most medals with 4585, the former Soviet Union came in a 2049 and Great Britain was third with 1720.
+* USA    4585
+* URS    2049
+* GBR    1720
+* FRA    1396
+* GER    1305
+* ITA    1296
+* AUS    1189
+* HUN    1079
+* SWE    1044
+* NED     851
+* GDR     825
+* CHN     807
+* JPN     788
+* RUS     768
+* CAN     649
+* ROU     640
+* NOR     554
+* KOR     529
+* POL     511
+* DEN     507
+* FRG     490
+* FIN     456
+* ESP     442
+* YUG     435
+* BRA     431
+* BEL     411
+* CUB     410
+* SUI     380
+* BUL     333
+* TCH     329
 
 **Total Medals by Sport**
 
-* See specific sport data below.
+* The sport with the most medals from 1896 to 2012 is Aquatics with 4170 medals.
+* The sport with the least medals from 1896 to 2012 is Roque with 3 medals.
+* The total number of medals from 1896 to 2012 is 31165.
 
-**Track and field Medal count by year**
-
-* The track and field medal counts trended up with a dip in the 1928 Olympics. The year with the most medals awarded was 2012 with 190 medals.
-
-**Track and field Medal count by country**
-
-* The United States had the most medals for track & field coming in at 994, while Great Brittain and Former Soviet Union rounded out the top three with 295 and 238 medals respectively.
-
-**Aquatics Medal count by year**
-
-* The aquatics medal count trended upward excpet for a few dips at years 1928, 1976, and 1980. 
-
-**Aquatics Medal count by country**
-
-* While the United States dominated in this category as well with 1184 medals, we did see some new countries show up to the race in Aquatics. Austria had 400 medals and Hungary came in with 250 medals to round out the top three. 
-
-**Rowing Medal count by year**
-
-* Just like the other sports, Rowing trended upwards while also hitting a few bumps in the road with declines in medal counts. This happened specifically in 1904, 1912 and 1920. In looking at this data, we also found there was a significant increase in the medal count in 1976 going from 78 medals in 1972 to 162 in 1976. Upon further investigation, we found that this increase was due to the inclusion of women's rowing. Up until 1976, rowing was an all male sport. In 1976, there were six female rowing events added for an all female crew. While they were adding females to the sport, they also added five new events for men's rowing.
-
-**Rowing Medal count by country**
-
-* The United States came in first for medal count by country with 364. Great Brittain and Canada rounded out the top three with 244 and 197 respectively.
-
-**Gymnastics Medal count by year**
-
-* Gymnastics has more of a flat trending pattern than what we have seen with the other sports. There were some declines in the data but one very large decrease that we noticed was from 1920 to 1924. In researching this to see what the cause could have been, we found there are several reasons for this decline. One of the main reasons is that in 1920, the Antwerp Olympics had many events for gymnastics. By the 1924 Olympics in Paris, many of the sports were reduced because the IOC was trying to streamline the sport and standardize the Olympic Games. You will see that this was changed in 2012 when there is spike upwards from 2008. This spike, we found, was because they added more events back to gymnastics for the Olympics in London.
-
-**Gymnastics Medal count by country**
-
-* For this data, we see a change up in the number one spot. The Former Soviet Union takes the number one spot with 290 medals. The United States and Great Brittain rounds out the top three with 178 and 159 respectively.
-
-**GDP per Capita by Country**
-
-* In using a scatter plot to diagram our GDP data, we found there were many dots in the 0 to 20,000 range for GDP. The dots seem to scatter out a bit in the 20,000 to 80,000 GDP range. There is one country that has a GDP over 80,000 that had less than 1000 medals. There is also a country that has a GDP of less than 60,000 with a medal count of over 4,000. This slide did not use the regession line and made it harder to see if there was a correlation.
 
 **Correlation between a country's GDP per Capita and Medal count**
 
-* In this scatter plot with the regression line, we were able to see the correlation as well as get the r squared value. The r squared value for this data showed a .160 correlation. This number shows there is a weak to moderate correlation between the GDP of the country and their medal count. There could be other factors that are contributing the medal counts other than the GDP.
+* There is a weak correlation between the GDP of the country and their medal count. There could be other factors that are contributing to the medal counts other than the GDP.
 
 **Summary statistics**
 
-* In short, we had a great time working and manipulating this data set so we could tell a story to our audience. By digging deaper into our data, we were also able to provide history behind the information as well. It was great seeing how events in history contributed to either the increase in medal counts or the decrease in medal counts. It just goes to show there are so many factors when it comes to the Olympic games. There was actually no data for 8 years, two summer Olympic cycles, due to WWII. 
+* Many other factors contribute to the success of a country in the Olympic games, outside of GDP.
+
+* Success in the Olympic Games is influenced by a variety of factors, often interconnected. Here are some key contributors:
+* 1. Economic Resources
+Funding and Investment: Wealthier nations can invest more in sports infrastructure, training facilities, and athlete development programs.
+Sponsorship: Access to corporate sponsorship allows athletes to focus full-time on training without financial stress.
+* 2. Population Size
+Talent Pool: Larger populations can produce more athletes, increasing the chances of discovering exceptional talent.
+Diversity: Countries with diverse populations may excel in a wider range of sports, especially in both individual and team events.
+* 3. Government Support and Policies
+National Sports Programs: Countries with structured sports programs often see greater success, especially when these programs start at a young age.
+Elite Athlete Development: Focused support for elite athletes, including access to high-quality coaching, nutrition, and medical care, can enhance performance.
+* 4. Sports Culture and Tradition
+Historical Success: Countries with a strong tradition in certain sports often continue to excel in those areas due to established training methodologies and a culture of success.
+Public Support: Enthusiastic public support and national pride can motivate athletes and contribute to their success.
+* 5. Infrastructure and Facilities
+Training Facilities: Access to world-class training facilities allows athletes to train at the highest level.
+Sports Science: Investment in sports science, including biomechanics, nutrition, and psychology, can give athletes a competitive edge.
+* 6. Talent Identification and Development
+Scouting Systems: Effective talent identification programs help discover and nurture young athletes.
+Youth Development: Strong grassroots programs that provide training and competition opportunities at a young age are critical.
+* 7. Climate and Geography
+Climate Adaptation: Countries with climates conducive to year-round training in certain sports may have an advantage.
+Altitude Training: Countries at higher altitudes may produce athletes with greater endurance due to natural altitude training.
+* 8. Social and Political Stability
+Stable Environment: Athletes from countries with social and political stability can focus more on training without the distractions or interruptions that might occur in less stable environments.
 
