@@ -7,6 +7,7 @@ https://www.kaggle.com/datasets/the-guardian/olympic-games?resource=download&sel
 # Research Questions to Answer & Analysis: 
 
 **Medals by Year** 
+
 * The year with the most medals is 2008 with 2042 medals.
 * The year with the least medals is 1896 with 151 medals.
 * The total number of medals is 31165.
@@ -29,6 +30,7 @@ Michael Phelps, Larisa Ulatynina, and Nikolay Andrianov.
 **How many medals did Michael Phelps win?**
 
 * Michael Phelps won a total of 18 medals.
+
 
 **How many medals did ULATYNINA, Larisa win?**
 
